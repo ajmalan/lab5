@@ -1,3 +1,5 @@
+//partners : Ayaan Ajmal and CalLind Gilson
+
 import java.util.ArrayList;
 
 class Main {
