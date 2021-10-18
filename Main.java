@@ -16,7 +16,7 @@ class Main {
     student2.print();
     //part 2- average gpa
     ArrayList<Double> gpas = new ArrayList<Double>();
-    gpas.add(student1.gpa);
+    gpas.add(student1.getGPA());
     gpas.add(student2.gpa);
     // System.out.println(gpas);
    double sum = 0;
